@@ -1,10 +1,9 @@
 ---
-title: "Town Planning Board Meeting - [Date]"
-date: [Date]
+title: "Town Planning Board Meeting "
 tags: ["town planning", "meeting"]
 ---
 
-# Town Planning Board Meeting - [Date]
+# Town Planning Board Meeting -
 
 ## Meeting Overview
 Provide a brief overview of the meeting here.
